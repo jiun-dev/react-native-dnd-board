@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hungga1711/react-native-dnd-board.git"
+    "url": "https://github.com/jiun-dev/react-native-dnd-board.git"
   },
   "keywords": [
     "draggable",
@@ -32,7 +32,7 @@
   "license": "ISC",
   "readmeFilename": "README.md",
   "dependencies": {
-    "react-native-gesture-handler": "^1.10.0",
-    "react-native-reanimated": "2.12.0"
+    "react-native-gesture-handler": "^2.13.3",
+    "react-native-reanimated": "^3.5.4"
   }
 }
